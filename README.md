@@ -1,7 +1,6 @@
 # Order processing: reliable programming and unit testing lab
 
-<!-- Replace USERNAME/REPO with your repo to get a live status badge -->
-![tests](https://github.com/USERNAME/REPO/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/nullroy/comp7082-order-processing/actions/workflows/tests.yml/badge.svg)
 
 This is the order-processing starter with its defects fixed, a pytest suite, and a GitHub Actions workflow.
 

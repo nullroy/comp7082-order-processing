@@ -96,6 +96,6 @@ $ python -m pytest -q
 
 `.github/workflows/tests.yml` runs on every push and pull request, on Python 3.10 and 3.12.
 
-Successful run: https://github.com/USERNAME/REPO/actions/runs/RUN_ID
+[Successful run: https://github.com/USERNAME/REPO/actions/runs/](https://github.com/nullroy/comp7082-order-processing/actions/runs/45081564700)
 
-![Passing GitHub Actions run](docs/ci-passing.png)
+![Passing GitHub Actions run](docs/ci_passing.png)
